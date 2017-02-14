@@ -1,0 +1,6 @@
+<!--
+ - Created by arjun.mohan on 2/14/2017.
+ -->
+
+<aura:event type="APPLICATION" description="TestEvent">
+</aura:event>
